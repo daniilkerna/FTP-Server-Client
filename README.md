@@ -1,3 +1,5 @@
+mftp server and client. Able to transfer files between each other. 
+
 Run server with
 ./server 
 
